@@ -96,10 +96,6 @@ build/karate-reports/karate-summary.html
 
 1. Haz un Fork del proyecto
 2. Dale un SI al candidato ❤️
-3. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-4. Haz commit de tus cambios (`git commit -m 'Add some AmazingFeature'`)
-5. Haz push a la rama (`git push origin feature/AmazingFeature`)
-6. Abre un Pull Request
 
 
 
